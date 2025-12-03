@@ -7,8 +7,20 @@ nav: true
 nav_order: 8
 ---
 
-아래에 
-Below we summarize some frequently asked questions (FAQ) about the GSDS Challenge. If you have any other questions, please feel free to [contact us](/GSDSchallenge2026/contact).
+아래에 자주나오는 질문과 답변을 정리하였습니다. 추가적으로 궁금하신 부분은 편하게 알려주시기 바랍니다. [contact us](/SNUAIChallenge/contact).
+
+#### 1. 참가자격 
+
+#### 2. 사용가능한 모델
+
+#### 3. 외부 데이터 사용 가능 여부
+
+#### 4. 팀 구성
+
+#### 5. 기타 등등
+
+
+<!-- Below we summarize some frequently asked questions (FAQ) about the GSDS Challenge. If you have any other questions, please feel free to [contact us](/GSDSchallenge2026/contact).
 
 #### 1. How can I check why my submission failed in the [leaderboard website](https://urgent-challenge.com/competitions/5)?
 
@@ -72,4 +84,4 @@ For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
 Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
 ```
 
-**Answer:** Evaluation jobs for your submission were terminated likely due to a hardware issue of the specific node assigned to evaluate your submission. Please contact us and we will rerun the evaluation using another node for you.
+**Answer:** Evaluation jobs for your submission were terminated likely due to a hardware issue of the specific node assigned to evaluate your submission. Please contact us and we will rerun the evaluation using another node for you. -->
