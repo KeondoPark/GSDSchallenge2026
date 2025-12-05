@@ -169,7 +169,11 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <p><img alt="introduction" src="/SNUAIChallenge/assets/img/%EB%8C%80%ED%9A%8C%EC%A3%BC%EC%A0%9C_%EC%86%8C%EA%B0%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" style="max-width: 100%;"></p>
+      <div style="text-align: center;">
+  <a href="https://gsds.snu.ac.kr" target="_blank" rel="noopener noreferrer">
+    <img alt="introduction" src="/SNUAIChallenge/assets/img/GSDS%EB%A1%9C%EA%B3%A0.png" style="max-width: 50%;">
+  </a>
+</div>
 
 <!-- <p>We can also cite <d-cite key="VoiceFixer-Liu2022"></d-cite> external publications.</p>
 
@@ -187,9 +191,13 @@ if isinstance(speech_mix, np.ndarray):
 </d-code> -->
 
 <h1 id="텍스트로-읽는-씬의-재구성">텍스트로 읽는 씬의 재구성</h1>
+<hr>
 <h2 id="overview">Overview</h2>
 <p>서울대학교 데이터사이언스 대학원에서는 최신 인공지능 연구의 최전선에서 기존 모델의 한계를 극복하고 다양한 상황에서의 일반화 성능 향상을 위해 활발히 연구를 진행하고 있습니다. 뿐만 아니라, 이러한 연구 성과가 좀 더 확산되고, 보다 많은 사람들이 인공지능 연구에 관심을 가질 수 있도록 하는 데에도 많은 노력을 기울이고 있습니다. 이러한 노력의 일환으로 저희 대학원에서 자체적으로 수집한 데이터를 공개하여 국내외 대학 학부생들이 최신 인공지능 모델을 직접 개발해보고 성능을 겨루어 볼 수 있는 경연의 장을 마련하였습니다.</p>
 
+<p><img alt="introduction" src="/SNUAIChallenge/assets/img/%EB%8C%80%ED%9A%8C%EC%A3%BC%EC%A0%9C_%EC%86%8C%EA%B0%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" style="max-width: 100%;"></p>
+
+<hr>
 <h2 id="description">Description</h2>
 <p><strong>1. 과제 정의: 텍스트로 읽는 씬의 재구성</strong>
 주어진 스토리라인(캡션)에 맞게 4개의 이미지 프레임을 올바른 순서로 재배열하는 문제.</p>
@@ -267,6 +275,7 @@ if isinstance(speech_mix, np.ndarray):
 
 <p>[주최/운영] 서울대학교 데이터사이언스 대학원</p>
 
+<hr>
 <h2 id="evaluation">Evaluation</h2>
 
 <p>예선 순위는 Exact Match Accuracy (제출한 순서와 정답 순서가 완전히 일치하는 경우만 정답으로 인정)를 기준으로 결정됩니다. 즉, 각 문제에 대해 올바르게 재배열한 이미지의 순서가 [0,3,1,2]일 경우 [0,3,1,2]를 정확히 맞춘 경우만 정답으로 처리되며 다른 순서는 정답으로 인정되지 않습니다.</p>
@@ -280,7 +289,7 @@ if isinstance(speech_mix, np.ndarray):
 
     <!-- Footer -->    <footer class="sticky-bottom mt-5">
       <div class="container">
-        © Copyright 2025 SNU AI  Challenge (2026). Last updated: December 03, 2025.
+        © Copyright 2025 SNU AI  Challenge (2026). Last updated: December 05, 2025.
       </div>
     </footer><d-bibliography src="/SNUAIChallenge/assets/bibliography/about.bib"></d-bibliography><!-- JavaScripts -->
     <!-- Bootsrap & MDB scripts -->

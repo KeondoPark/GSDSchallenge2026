@@ -15,9 +15,9 @@ nav_order: 10
 ### Core Members
 1. 김수민 (박사과정, VIP 연구실)
 2. 곽수지 (박사과정, Ski-ML 연구실)
-3. 박건도 (박사과정, AIoT 연구실)
-4. 백은수 (박사과정, AIoT 연구실)
-5. 송무호 (박사과정, Ski-ML 연구실)
+3. <a style="color: #2E67D3;" href="https://keondopark.github.io/profile/">박건도</a> (박사과정, AIoT 연구실) 
+4. <a style="color: #2E67D3;" href="https://edw2n.github.io/"> 백은수 </a> (박사과정, AIoT 연구실) 
+5. 송무호 (박사과정, Ski-ML 연구실) 
 6. 안성근 (박사과정, Ski-ML 연구실)
 7. 여주안 (박사과정, LAAL 연구실)
 8. 유지환 (박사과정, LAAL 연구실)
@@ -39,9 +39,9 @@ nav_order: 10
 12. <a style="color: #2E67D3;" href="https://www.tu-braunschweig.de/en/ifn/institute/dept/sv/translate-to-english-yihui-fu-m-eng">Yihui Fu</a>, Technische Universität Braunschweig, Germany -->
 
 ### Advisory members
-1. 김태섭 교수 (LAAL 연구실)
-2. 김형신 교수 (AIoT 연구실)
-3. 이재윤 교수 (Ski-ML 연구실)
-4. 이준석 교수 (VIP 연구실) 
+1. <a style="color: #2E67D3;" href="https://www.snu-laal.com/">김태섭</a> 교수 (LAAL 연구실)
+2. <a style="color: #2E67D3;" href="https://aiot.snu.ac.kr/">김형신</a> 교수 (AIoT 연구실)
+3. <a style="color: #2E67D3;" href="https://www.skiml.snu.ac.kr/">이재윤</a> 교수 (Ski-ML 연구실)
+4. <a style="color: #2E67D3;" href="https://viplab.snu.ac.kr/">이준석</a> 교수 (VIP 연구실) 
 
-> 경진대회의 개최와 운영에 아낌없는 지원을 해주신 이재진 대학원장님께 깊은 감사의 말씀 드립니다.
+> 경진대회의 개최와 운영에 아낌없는 지원을 해주신 <a style="color: #2E67D3;" href="https://thunder.snu.ac.kr/">이재진</a> 대학원장님께 깊은 감사의 말씀 드립니다.
